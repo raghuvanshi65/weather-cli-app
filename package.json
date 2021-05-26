@@ -1,0 +1,17 @@
+{
+  "name": "async-weather-app",
+  "version": "1.0.0",
+  "description": "This is the starting of the async side of nodejs and making a weather app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "postman-request": "^2.88.1-postman.30",
+    "validator": "^13.6.0",
+    "yargs": "^17.0.1"
+  }
+}
